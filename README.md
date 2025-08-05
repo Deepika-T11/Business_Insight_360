@@ -11,9 +11,13 @@ To analyze and visualize business performance from multiple angles using interac
 **Dashboard View**
 
 Finance View: P&L Overview, Net Sales Trends
+
 Sales View: Regional, Product & Customer Performance dynamic Visuals with Interactive Filters
+
 Marketing View: Segment-Wise & Market-Wise Performance
+
 Supply Chain View: Forecasting Insights, Risk Management Dashboard
+
 Executive View: Top KPIs, Contribution Snapshot
 
 **Tech Stack & Tools:**
