@@ -18,4 +18,4 @@ Executive View: Top KPIs, Contribution Snapshot
 • Power Query – Data Transformation (ETL)
 • MySQL – Data Source
 
-Check out the live [dashboard]([url](https://app.powerbi.com/groups/8e73f1b9-ee6f-4316-9a34-e0050beac88f/reports/c5b50491-7b86-47d3-897f-d0512e306564/b4749f9f8ac4693d2860?experience=power-bi)):
+Check out the live dashboard- https://app.powerbi.com/groups/8e73f1b9-ee6f-4316-9a34-e0050beac88f/reports/c5b50491-7b86-47d3-897f-d0512e306564/b4749f9f8ac4693d2860?experience=power-bi
